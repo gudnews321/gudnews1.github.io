@@ -1,0 +1,27 @@
+#container {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background: yellow;
+}
+#animate {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background: red;
+}
+.one {
+height: 300px;
+width: 300px;
+background: url("../images/sf6.jpg");
+}
+.two {
+    height: 300px;
+    width: 300px;
+    background: url("../images/earthing.jpg");
+    }
+.three {
+        height: 300px;
+        width: 300px;
+        background: url("../images/station.jpg");
+        }
